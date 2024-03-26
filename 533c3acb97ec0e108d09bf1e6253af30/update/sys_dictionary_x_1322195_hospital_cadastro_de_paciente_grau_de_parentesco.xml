@@ -4,11 +4,16 @@
         <array>false</array>
         <attributes/>
         <audit>false</audit>
-        <calculation/>
+        <calculation><![CDATA[(function calculatedFieldValue(current) {
+
+	// Add your code here
+	return '';  // return the calculated value
+
+})(current);]]></calculation>
         <choice>1</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Grau de Parentesco</column_label>
+        <column_label>Grau de parentesco</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -27,7 +32,7 @@
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
-        <internal_type display_value="">boolean</internal_type>
+        <internal_type display_value="Choice">choice</internal_type>
         <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_1322195_hospital_cadastro_de_paciente</name>
@@ -46,15 +51,15 @@
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>renan.amorim</sys_created_by>
-        <sys_created_on>2024-03-09 23:47:34</sys_created_on>
+        <sys_created_on>2024-03-24 00:12:15</sys_created_on>
         <sys_id>a76f6a5697740a108d09bf1e6253af1f</sys_id>
-        <sys_name>Grau de Parentesco</sys_name>
-        <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+        <sys_name>Grau de parentesco</sys_name>
+        <sys_package display_value="Hospital Emergency-profissional-Juan Felipe" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+        <sys_scope display_value="Hospital Emergency-profissional-Juan Felipe">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
         <sys_update_name>sys_dictionary_x_1322195_hospital_cadastro_de_paciente_grau_de_parentesco</sys_update_name>
         <sys_updated_by>renan.amorim</sys_updated_by>
-        <sys_updated_on>2024-03-10 00:08:28</sys_updated_on>
+        <sys_updated_on>2024-03-24 00:12:15</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

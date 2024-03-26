@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ui_policy_action">
+    <sys_ui_policy_action action="INSERT_OR_UPDATE">
+        <cleared>false</cleared>
+        <disabled>ignore</disabled>
+        <field>grau_de_parentesco</field>
+        <field_message/>
+        <field_message_type>none</field_message_type>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_ui_policy_action</sys_class_name>
+        <sys_created_by>renan.amorim</sys_created_by>
+        <sys_created_on>2024-03-24 00:21:06</sys_created_on>
+        <sys_id>df5df2b297c9c2108d09bf1e6253af79</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>grau_de_parentesco</sys_name>
+        <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+        <sys_update_name>sys_ui_policy_action_df5df2b297c9c2108d09bf1e6253af79</sys_update_name>
+        <sys_updated_by>renan.amorim</sys_updated_by>
+        <sys_updated_on>2024-03-24 00:21:06</sys_updated_on>
+        <table>x_1322195_hospital_cadastro_de_paciente</table>
+        <ui_policy display_value="Políticas de campos - Seção Acompanhante | Cadastro de Paciente">63e03a369789c2108d09bf1e6253afe5</ui_policy>
+        <value/>
+        <value_action>ignore</value_action>
+        <visible>ignore</visible>
+    </sys_ui_policy_action>
+    <sys_translated_text action="delete_multiple" query="documentkey=df5df2b297c9c2108d09bf1e6253af79"/>
+</record_update>

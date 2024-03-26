@@ -9,7 +9,7 @@ Script para validação do CPF para o padrão XXX.XXX.XXX-XX</description>
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>Validar CPF - Cadastro de Paciente</name>
+        <name>Validar CPF - Seção Acompanhente</name>
         <order/>
         <script><![CDATA[function onChange(control, oldValue, newValue, isLoading, isTemplate) {
     if (isLoading || newValue === '') {
@@ -51,15 +51,15 @@ Script para validação do CPF para o padrão XXX.XXX.XXX-XX</description>
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>c006cb9297f40a108d09bf1e6253afbe</sys_id>
-        <sys_mod_count>2</sys_mod_count>
-        <sys_name>Validar CPF - Cadastro de Paciente</sys_name>
+        <sys_mod_count>3</sys_mod_count>
+        <sys_name>Validar CPF - Seção Acompanhente</sys_name>
         <sys_overrides/>
         <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
         <sys_update_name>sys_script_client_c006cb9297f40a108d09bf1e6253afbe</sys_update_name>
         <sys_updated_by>renan.amorim</sys_updated_by>
-        <sys_updated_on>2024-03-11 14:39:29</sys_updated_on>
+        <sys_updated_on>2024-03-12 23:29:06</sys_updated_on>
         <table>x_1322195_hospital_cadastro_de_paciente</table>
         <type>onChange</type>
         <ui_type>10</ui_type>

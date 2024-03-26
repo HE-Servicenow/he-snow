@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="grau_de_parentesc0" table="x_1322195_hospital_cadastro_de_paciente">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_atendente_nome" table="x_1322195_hospital_cadastro_de_paciente">
         <active>true</active>
         <array>false</array>
-        <attributes/>
+        <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Grau de parentesco</column_label>
+        <column_label>Nome do profissional</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,19 +21,19 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>grau_de_parentesc0</element>
+        <element>u_atendente_nome</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
         <function_definition/>
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
-        <mandatory>true</mandatory>
+        <mandatory>false</mandatory>
         <max_length>40</max_length>
         <name>x_1322195_hospital_cadastro_de_paciente</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -45,16 +45,16 @@
         <spell_check>false</spell_check>
         <staged>false</staged>
         <sys_class_name>sys_dictionary</sys_class_name>
-        <sys_created_by>renan.amorim</sys_created_by>
-        <sys_created_on>2024-03-10 00:22:26</sys_created_on>
-        <sys_id>9267321297b40a108d09bf1e6253afa2</sys_id>
-        <sys_name>Grau de parentesco</sys_name>
+        <sys_created_by>pedro.sa</sys_created_by>
+        <sys_created_on>2024-03-11 11:20:31</sys_created_on>
+        <sys_id>7397d63697f88a108d09bf1e6253af21</sys_id>
+        <sys_name>Nome do profissional</sys_name>
         <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
-        <sys_update_name>sys_dictionary_x_1322195_hospital_cadastro_de_paciente_grau_de_parentesc0</sys_update_name>
-        <sys_updated_by>juan.felipe</sys_updated_by>
-        <sys_updated_on>2024-03-12 13:02:58</sys_updated_on>
+        <sys_update_name>sys_dictionary_x_1322195_hospital_cadastro_de_paciente_u_atendente_nome</sys_update_name>
+        <sys_updated_by>renan.amorim</sys_updated_by>
+        <sys_updated_on>2024-03-23 18:43:28</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
