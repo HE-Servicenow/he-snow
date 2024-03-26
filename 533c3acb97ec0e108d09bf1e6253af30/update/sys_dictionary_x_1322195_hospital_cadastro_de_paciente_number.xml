@@ -5,7 +5,7 @@
         <attributes>edge_encryption_enabled=true</attributes>
         <audit>false</audit>
         <calculation/>
-        <choice>0</choice>
+        <choice/>
         <choice_field/>
         <choice_table/>
         <column_label>Number</column_label>
@@ -33,7 +33,7 @@
         <name>x_1322195_hospital_cadastro_de_paciente</name>
         <next_element/>
         <primary>false</primary>
-        <read_only>false</read_only>
+        <read_only>true</read_only>
         <read_roles/>
         <reference/>
         <reference_cascade_rule/>
@@ -54,7 +54,7 @@
         <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
         <sys_update_name>sys_dictionary_x_1322195_hospital_cadastro_de_paciente_number</sys_update_name>
         <sys_updated_by>juan.felipe</sys_updated_by>
-        <sys_updated_on>2024-03-08 18:59:00</sys_updated_on>
+        <sys_updated_on>2024-03-12 23:34:52</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
