@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="u_telefone" label="Telefone fixo" language="en" table="x_1322195_hospital_cadastro_de_paciente">
+    <sys_documentation element="u_telefone" label="Telefone" language="en" table="x_1322195_hospital_cadastro_de_paciente">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>u_telefone</element>
             <help/>
             <hint/>
-            <label>Telefone fixo</label>
+            <label>Telefone</label>
             <language>en</language>
             <name>x_1322195_hospital_cadastro_de_paciente</name>
-            <plural>Telefone fixos</plural>
+            <plural>Telefones</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2024-03-12 14:54:20</sys_created_on>
             <sys_id>3d22189397380e108d09bf1e6253af3c</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_name>Telefone fixo</sys_name>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Telefone</sys_name>
             <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
             <sys_policy/>
             <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
             <sys_update_name>sys_documentation_x_1322195_hospital_cadastro_de_paciente_u_telefone_en</sys_update_name>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 18:30:09</sys_updated_on>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-03-12 14:54:20</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
