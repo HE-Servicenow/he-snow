@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_form_sections form_id="8e1c169e97f00a108d09bf1e6253af6e" sys_domain="global" table="x_1322195_hospital_cadastro_de_paciente" version="3">
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>0</position>
+            <sys_created_by>renan.amorim</sys_created_by>
+            <sys_created_on>2024-03-09 22:23:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>de1c169e97f00a108d09bf1e6253af72</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1322195_hospital_cadastro_de_paciente" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">8e1c169e97f00a108d09bf1e6253af6e</sys_ui_form>
+            <sys_ui_section caption="NULL" display_value="" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">4bc3e4ca97f486108d09bf1e6253afd5</sys_ui_section>
+            <sys_updated_by>renan.amorim</sys_updated_by>
+            <sys_updated_on>2024-03-09 22:23:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>renan.amorim</sys_created_by>
+            <sys_created_on>2024-03-09 22:23:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5e1c169e97f00a108d09bf1e6253af73</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_1322195_hospital_cadastro_de_paciente" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">8e1c169e97f00a108d09bf1e6253af6e</sys_ui_form>
+            <sys_ui_section caption="Acompanhante" display_value="Acompanhante" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">061c169e97f00a108d09bf1e6253af6d</sys_ui_section>
+            <sys_updated_by>renan.amorim</sys_updated_by>
+            <sys_updated_on>2024-03-09 22:23:05</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form action="INSERT_OR_UPDATE">
+            <name>x_1322195_hospital_cadastro_de_paciente</name>
+            <roles/>
+            <sys_class_name>sys_ui_form</sys_class_name>
+            <sys_created_by>renan.amorim</sys_created_by>
+            <sys_created_on>2024-03-09 22:23:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>8e1c169e97f00a108d09bf1e6253af6e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_1322195_hospital_cadastro_de_paciente</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+            <sys_update_name>sys_ui_form_sections_8e1c169e97f00a108d09bf1e6253af6e</sys_update_name>
+            <sys_updated_by>renan.amorim</sys_updated_by>
+            <sys_updated_on>2024-03-09 22:23:05</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_form>
+    </sys_ui_form_sections>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="grau_de_parentesco" label="Grau de Parentesco" language="en" table="x_1322195_hospital_cadastro_de_paciente">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>grau_de_parentesco</element>
+            <help/>
+            <hint/>
+            <label>Grau de Parentesco</label>
+            <language>en</language>
+            <name>x_1322195_hospital_cadastro_de_paciente</name>
+            <plural/>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>renan.amorim</sys_created_by>
+            <sys_created_on>2024-03-09 23:47:34</sys_created_on>
+            <sys_id>2f6f6a5697740a108d09bf1e6253af21</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Grau de Parentesco</sys_name>
+            <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+            <sys_update_name>sys_documentation_x_1322195_hospital_cadastro_de_paciente_grau_de_parentesco_en</sys_update_name>
+            <sys_updated_by>renan.amorim</sys_updated_by>
+            <sys_updated_on>2024-03-10 00:18:05</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
