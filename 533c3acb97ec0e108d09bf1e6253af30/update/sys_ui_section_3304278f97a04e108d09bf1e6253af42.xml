@@ -3,70 +3,70 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>atendimento</element>
             <position>0</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-02-29 01:40:37</sys_created_on>
-            <sys_id>c2696f4797e04e108d09bf1e6253afd0</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:59:32</sys_created_on>
+            <sys_id>c58ee83f972002508d09bf1e6253af17</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1322195_hospital_triagem" sys_domain="global" view="Default view">3304278f97a04e108d09bf1e6253af42</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-02-29 01:40:37</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 19:59:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>tipo_de_atendimento</element>
             <position>1</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-02-29 01:40:37</sys_created_on>
-            <sys_id>4e696f4797e04e108d09bf1e6253afd0</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:59:32</sys_created_on>
+            <sys_id>058ee83f972002508d09bf1e6253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1322195_hospital_triagem" sys_domain="global" view="Default view">3304278f97a04e108d09bf1e6253af42</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-02-29 01:40:37</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 19:59:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>2</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-02-29 01:40:37</sys_created_on>
-            <sys_id>c2696f4797e04e108d09bf1e6253afd1</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:59:32</sys_created_on>
+            <sys_id>0d8ee83f972002508d09bf1e6253af18</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1322195_hospital_triagem" sys_domain="global" view="Default view">3304278f97a04e108d09bf1e6253af42</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-02-29 01:40:37</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 19:59:32</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>data_hora_do_atendimento</element>
             <position>3</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-02-29 01:40:37</sys_created_on>
-            <sys_id>4a696f4797e04e108d09bf1e6253afd1</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:59:32</sys_created_on>
+            <sys_id>058ee83f972002508d09bf1e6253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1322195_hospital_triagem" sys_domain="global" view="Default view">3304278f97a04e108d09bf1e6253af42</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-02-29 01:40:37</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 19:59:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>especialidade</element>
             <position>4</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-02-29 01:40:37</sys_created_on>
-            <sys_id>ce696f4797e04e108d09bf1e6253afd1</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:59:32</sys_created_on>
+            <sys_id>0d8ee83f972002508d09bf1e6253af19</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="NULL" display_value="" name="x_1322195_hospital_triagem" sys_domain="global" view="Default view">3304278f97a04e108d09bf1e6253af42</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-02-29 01:40:37</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 19:59:32</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

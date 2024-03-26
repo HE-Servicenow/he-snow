@@ -1,0 +1,120 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_choice action="INSERT_OR_UPDATE" field="u_classificacao_risco" table="x_1322195_hospital_triagem" version="3">
+        <sys_choice_set action="INSERT_OR_UPDATE">
+            <element>u_classificacao_risco</element>
+            <name>x_1322195_hospital_triagem</name>
+            <sys_class_name>sys_choice_set</sys_class_name>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:11:41</sys_created_on>
+            <sys_id>1493ac3f97ecce108d09bf1e6253af0f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>u_classificacao_risco</sys_name>
+            <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+            <sys_update_name>sys_choice_x_1322195_hospital_triagem_u_classificacao_risco</sys_update_name>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 19:11:41</sys_updated_on>
+        </sys_choice_set>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classificacao_risco</element>
+            <hint>Emergência – Risco de perder a vida – Atendimento imediato;</hint>
+            <inactive>false</inactive>
+            <label>Vermelha</label>
+            <language>en</language>
+            <name>x_1322195_hospital_triagem</name>
+            <sequence>0</sequence>
+            <synonyms/>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9c93ac3f97ecce108d09bf1e6253af0e</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 20:03:03</sys_updated_on>
+            <value>vermelha</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classificacao_risco</element>
+            <hint>Muito urgente – Risco de perda de função de órgãos – Atendimento em até 10 minutos;</hint>
+            <inactive>false</inactive>
+            <label>Laranja</label>
+            <language>en</language>
+            <name>x_1322195_hospital_triagem</name>
+            <sequence>1</sequence>
+            <synonyms/>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d893ac3f97ecce108d09bf1e6253af10</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 20:03:10</sys_updated_on>
+            <value>laranja</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classificacao_risco</element>
+            <hint>Urgente – Condição que pode se agravar sem atendimento – Atendimento em até 60 minutos;</hint>
+            <inactive>false</inactive>
+            <label>Amarelo</label>
+            <language>en</language>
+            <name>x_1322195_hospital_triagem</name>
+            <sequence>2</sequence>
+            <synonyms/>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>1893ac3f97ecce108d09bf1e6253af11</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 20:03:17</sys_updated_on>
+            <value>amarelo</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classificacao_risco</element>
+            <hint>Pouco Urgente – Baixo risco de agravo à saúde – Atendimento em até 120 minutos;</hint>
+            <inactive>false</inactive>
+            <label>Verde</label>
+            <language>en</language>
+            <name>x_1322195_hospital_triagem</name>
+            <sequence>3</sequence>
+            <synonyms/>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>5493ac3f97ecce108d09bf1e6253af12</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 20:03:22</sys_updated_on>
+            <value>verde</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_classificacao_risco</element>
+            <hint>Não urgente – Sem risco. Encaminhamento à Unidade de Saúde de referência – Atendimento em até 240 minutos;</hint>
+            <inactive>false</inactive>
+            <label>Azul</label>
+            <language>en</language>
+            <name>x_1322195_hospital_triagem</name>
+            <sequence>4</sequence>
+            <synonyms/>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-01 19:11:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9093ac3f97ecce108d09bf1e6253af13</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-01 20:03:29</sys_updated_on>
+            <value>azul</value>
+        </sys_choice>
+    </sys_choice>
+</record_update>
