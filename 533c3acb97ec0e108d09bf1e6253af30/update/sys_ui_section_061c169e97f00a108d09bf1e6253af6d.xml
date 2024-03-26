@@ -3,84 +3,84 @@
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>acompanhante</element>
             <position>0</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 23:33:59</sys_created_on>
-            <sys_id>cd923eb69789c2108d09bf1e6253afbf</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-11 11:20:31</sys_created_on>
+            <sys_id>08a7d63697f88a108d09bf1e6253af62</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Acompanhante" display_value="Acompanhante" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">061c169e97f00a108d09bf1e6253af6d</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 23:33:59</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-11 11:20:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>cpf</element>
             <position>1</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 23:33:59</sys_created_on>
-            <sys_id>89923eb69789c2108d09bf1e6253afc0</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-11 11:20:31</sys_created_on>
+            <sys_id>04a7d63697f88a108d09bf1e6253af63</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Acompanhante" display_value="Acompanhante" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">061c169e97f00a108d09bf1e6253af6d</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 23:33:59</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-11 11:20:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
-            <element>grau_de_parentesco</element>
+            <element>grau_de_parentesc0</element>
             <position>2</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 23:33:59</sys_created_on>
-            <sys_id>01923eb69789c2108d09bf1e6253afc1</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-11 11:20:31</sys_created_on>
+            <sys_id>0ca7d63697f88a108d09bf1e6253af63</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Acompanhante" display_value="Acompanhante" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">061c169e97f00a108d09bf1e6253af6d</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 23:33:59</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-11 11:20:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>.split</element>
             <position>3</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 23:33:59</sys_created_on>
-            <sys_id>85923eb69789c2108d09bf1e6253afc1</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-11 11:20:31</sys_created_on>
+            <sys_id>04a7d63697f88a108d09bf1e6253af64</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Acompanhante" display_value="Acompanhante" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">061c169e97f00a108d09bf1e6253af6d</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 23:33:59</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-11 11:20:31</sys_updated_on>
             <sys_user/>
             <type>.split</type>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>telefone</element>
             <position>4</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 23:33:59</sys_created_on>
-            <sys_id>0d923eb69789c2108d09bf1e6253afc1</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-11 11:20:31</sys_created_on>
+            <sys_id>0ca7d63697f88a108d09bf1e6253af64</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Acompanhante" display_value="Acompanhante" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">061c169e97f00a108d09bf1e6253af6d</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 23:33:59</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-11 11:20:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>
         <sys_ui_element action="INSERT_OR_UPDATE">
             <element>e_mail</element>
             <position>5</position>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 23:33:59</sys_created_on>
-            <sys_id>81923eb69789c2108d09bf1e6253afc2</sys_id>
+            <sys_created_by>pedro.sa</sys_created_by>
+            <sys_created_on>2024-03-11 11:20:31</sys_created_on>
+            <sys_id>04a7d63697f88a108d09bf1e6253af65</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_ui_formatter/>
             <sys_ui_section caption="Acompanhante" display_value="Acompanhante" name="x_1322195_hospital_cadastro_de_paciente" sys_domain="global" view="Default view">061c169e97f00a108d09bf1e6253af6d</sys_ui_section>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 23:33:59</sys_updated_on>
+            <sys_updated_by>pedro.sa</sys_updated_by>
+            <sys_updated_on>2024-03-11 11:20:31</sys_updated_on>
             <sys_user/>
             <type/>
         </sys_ui_element>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_dictionary action="INSERT_OR_UPDATE" element="u_atendente_nome" table="x_1322195_hospital_cadastro_de_paciente">
+    <sys_dictionary action="INSERT_OR_UPDATE" element="u_atendente_matricula" table="x_1322195_hospital_cadastro_de_paciente">
         <active>true</active>
         <array>false</array>
         <attributes>edge_encryption_enabled=true</attributes>
@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Nome do profissional</column_label>
+        <column_label>Matrícula</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -21,7 +21,7 @@
         <dynamic_creation_script/>
         <dynamic_default_value/>
         <dynamic_ref_qual/>
-        <element>u_atendente_nome</element>
+        <element>u_atendente_matricula</element>
         <element_reference>false</element_reference>
         <foreign_database/>
         <formula/>
@@ -47,12 +47,12 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>pedro.sa</sys_created_by>
         <sys_created_on>2024-03-11 11:20:31</sys_created_on>
-        <sys_id>7397d63697f88a108d09bf1e6253af21</sys_id>
-        <sys_name>Nome do profissional</sys_name>
+        <sys_id>04a7d63697f88a108d09bf1e6253af39</sys_id>
+        <sys_name>Matrícula</sys_name>
         <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
-        <sys_update_name>sys_dictionary_x_1322195_hospital_cadastro_de_paciente_u_atendente_nome</sys_update_name>
+        <sys_update_name>sys_dictionary_x_1322195_hospital_cadastro_de_paciente_u_atendente_matricula</sys_update_name>
         <sys_updated_by>pedro.sa</sys_updated_by>
         <sys_updated_on>2024-03-11 11:22:00</sys_updated_on>
         <table_reference>false</table_reference>
