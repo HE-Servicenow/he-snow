@@ -10,13 +10,13 @@
 	return '';  // return the calculated value
 
 })(current);]]></calculation>
-        <choice>3</choice>
+        <choice>1</choice>
         <choice_field/>
         <choice_table/>
         <column_label>Medicação contínua</column_label>
         <comments/>
         <create_roles/>
-        <default_value>2</default_value>
+        <default_value/>
         <defaultsort/>
         <delete_roles/>
         <dependent/>
@@ -59,7 +59,7 @@
         <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
         <sys_update_name>sys_dictionary_x_1322195_hospital_triagem_u_classificacao_medicacao</sys_update_name>
         <sys_updated_by>pedro.sa</sys_updated_by>
-        <sys_updated_on>2024-03-01 20:00:15</sys_updated_on>
+        <sys_updated_on>2024-03-05 16:31:50</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>

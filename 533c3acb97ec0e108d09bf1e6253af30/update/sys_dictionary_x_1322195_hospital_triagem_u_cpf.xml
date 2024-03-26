@@ -29,7 +29,7 @@
         <function_field>false</function_field>
         <internal_type display_value="String">string</internal_type>
         <mandatory>false</mandatory>
-        <max_length>50</max_length>
+        <max_length>40</max_length>
         <name>x_1322195_hospital_triagem</name>
         <next_element/>
         <primary>false</primary>
@@ -54,7 +54,7 @@
         <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
         <sys_update_name>sys_dictionary_x_1322195_hospital_triagem_u_cpf</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-05 19:46:39</sys_updated_on>
+        <sys_updated_on>2024-03-05 19:32:00</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
