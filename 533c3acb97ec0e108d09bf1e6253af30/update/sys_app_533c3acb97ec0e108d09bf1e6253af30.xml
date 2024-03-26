@@ -15,7 +15,7 @@
         <license_model>none</license_model>
         <logo/>
         <menu/>
-        <name>Hospital Emergency-profissional-Juan Felipe</name>
+        <name>Hospital Emergency</name>
         <package_json/>
         <private>false</private>
         <restrict_table_access>false</restrict_table_access>
@@ -32,9 +32,9 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-02-28 22:23:16</sys_created_on>
         <sys_id>533c3acb97ec0e108d09bf1e6253af30</sys_id>
-        <sys_mod_count>3</sys_mod_count>
-        <sys_updated_by>juan.felipe</sys_updated_by>
-        <sys_updated_on>2024-03-05 19:54:24</sys_updated_on>
+        <sys_mod_count>2</sys_mod_count>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 02:04:25</sys_updated_on>
         <template/>
         <trackable>true</trackable>
         <uninstall_blocked>false</uninstall_blocked>

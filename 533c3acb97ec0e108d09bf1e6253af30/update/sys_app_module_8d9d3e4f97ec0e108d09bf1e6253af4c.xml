@@ -13,7 +13,7 @@
         <mobile_title>Triagems</mobile_title>
         <mobile_view_name>Mobile</mobile_view_name>
         <name>x_1322195_hospital_triagem</name>
-        <order>50</order>
+        <order/>
         <override_menu_roles>false</override_menu_roles>
         <query/>
         <report/>
@@ -25,15 +25,15 @@
         <sys_domain>global</sys_domain>
         <sys_domain_path>/</sys_domain_path>
         <sys_id>8d9d3e4f97ec0e108d09bf1e6253af4c</sys_id>
-        <sys_mod_count>10</sys_mod_count>
+        <sys_mod_count>9</sys_mod_count>
         <sys_name>Triagens</sys_name>
         <sys_overrides/>
-        <sys_package display_value="Hospital Emergency-profissional-Juan Felipe" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+        <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Hospital Emergency-profissional-Juan Felipe">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+        <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
         <sys_update_name>sys_app_module_8d9d3e4f97ec0e108d09bf1e6253af4c</sys_update_name>
-        <sys_updated_by>renan.amorim</sys_updated_by>
-        <sys_updated_on>2024-02-29 18:14:20</sys_updated_on>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-02-29 18:01:28</sys_updated_on>
         <timeline_page/>
         <title>Triagens</title>
         <uncancelable>false</uncancelable>
