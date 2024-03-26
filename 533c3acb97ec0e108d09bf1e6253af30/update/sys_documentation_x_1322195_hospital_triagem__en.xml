@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="" label="Triagem" language="en" table="x_1322195_hospital_triagem">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element/>
+            <help/>
+            <hint/>
+            <label>Triagem</label>
+            <language>en</language>
+            <name>x_1322195_hospital_triagem</name>
+            <plural>Triagens</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2024-02-28 22:29:08</sys_created_on>
+            <sys_id>5d9d3e4f97ec0e108d09bf1e6253af87</sys_id>
+            <sys_mod_count>5</sys_mod_count>
+            <sys_name>Triagem</sys_name>
+            <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+            <sys_update_name>sys_documentation_x_1322195_hospital_triagem__en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2024-02-29 15:56:34</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>
