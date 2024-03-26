@@ -1,25 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_documentation element="grau_de_parentesc0" label="Grau de Parentesco" language="en" table="x_1322195_hospital_cadastro_de_paciente">
+    <sys_documentation element="grau_de_parentesc0" label="Grau de parentesco" language="en" table="x_1322195_hospital_cadastro_de_paciente">
         <sys_documentation action="INSERT_OR_UPDATE">
             <element>grau_de_parentesc0</element>
             <help/>
             <hint/>
-            <label>Grau de Parentesco</label>
+            <label>Grau de parentesco</label>
             <language>en</language>
             <name>x_1322195_hospital_cadastro_de_paciente</name>
-            <plural/>
+            <plural>Grau de parentescos</plural>
             <sys_class_name>sys_documentation</sys_class_name>
             <sys_created_by>renan.amorim</sys_created_by>
             <sys_created_on>2024-03-10 00:22:26</sys_created_on>
             <sys_id>9267321297b40a108d09bf1e6253afa4</sys_id>
-            <sys_mod_count>5</sys_mod_count>
-            <sys_name>Grau de Parentesco</sys_name>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_name>Grau de parentesco</sys_name>
             <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
             <sys_policy/>
             <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
             <sys_update_name>sys_documentation_x_1322195_hospital_cadastro_de_paciente_grau_de_parentesc0_en</sys_update_name>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-10 00:25:10</sys_updated_on>
+            <sys_updated_by>juan.felipe</sys_updated_by>
+            <sys_updated_on>2024-03-12 13:02:58</sys_updated_on>
             <url/>
             <url_target/>
         </sys_documentation>
