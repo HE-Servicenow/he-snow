@@ -8,7 +8,7 @@
         <choice>0</choice>
         <choice_field/>
         <choice_table/>
-        <column_label>Frequência Cardíaca</column_label>
+        <column_label>Frequência cardíaca</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -48,13 +48,13 @@
         <sys_created_by>matheus.soares</sys_created_by>
         <sys_created_on>2024-02-29 19:48:05</sys_created_on>
         <sys_id>b3422fd797e48e108d09bf1e6253afd8</sys_id>
-        <sys_name>Frequência Cardíaca</sys_name>
-        <sys_package display_value="Hospital Emergency-profissional-Juan Felipe" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+        <sys_name>Frequência cardíaca</sys_name>
+        <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>
-        <sys_scope display_value="Hospital Emergency-profissional-Juan Felipe">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+        <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
         <sys_update_name>sys_dictionary_x_1322195_hospital_triagem_u_freq_cardiaca</sys_update_name>
-        <sys_updated_by>matheus.soares</sys_updated_by>
-        <sys_updated_on>2024-02-29 19:48:05</sys_updated_on>
+        <sys_updated_by>juan.felipe</sys_updated_by>
+        <sys_updated_on>2024-03-10 01:42:40</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
