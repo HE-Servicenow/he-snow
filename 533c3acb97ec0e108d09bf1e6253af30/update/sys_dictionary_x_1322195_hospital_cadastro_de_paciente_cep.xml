@@ -13,7 +13,7 @@
         <choice/>
         <choice_field/>
         <choice_table/>
-        <column_label>Cep</column_label>
+        <column_label>CEP</column_label>
         <comments/>
         <create_roles/>
         <default_value/>
@@ -53,13 +53,13 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-12 14:52:18</sys_created_on>
         <sys_id>864b481797f40e108d09bf1e6253afc6</sys_id>
-        <sys_name>Cep</sys_name>
+        <sys_name>CEP</sys_name>
         <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>
         <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
         <sys_update_name>sys_dictionary_x_1322195_hospital_cadastro_de_paciente_cep</sys_update_name>
-        <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2024-03-12 14:52:18</sys_updated_on>
+        <sys_updated_by>renan.amorim</sys_updated_by>
+        <sys_updated_on>2024-03-28 19:38:06</sys_updated_on>
         <table_reference>false</table_reference>
         <text_index>false</text_index>
         <unique>false</unique>
