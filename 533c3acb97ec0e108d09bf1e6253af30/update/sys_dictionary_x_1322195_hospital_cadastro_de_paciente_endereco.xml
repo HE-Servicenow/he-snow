@@ -52,7 +52,6 @@
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2024-03-12 14:52:18</sys_created_on>
-        <sys_id>17f0dcdb97f40e108d09bf1e6253af82</sys_id>
         <sys_name>Endereço</sys_name>
         <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>

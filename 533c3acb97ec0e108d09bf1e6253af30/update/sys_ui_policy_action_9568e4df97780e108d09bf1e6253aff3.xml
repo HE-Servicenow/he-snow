@@ -19,7 +19,7 @@
         <sys_updated_by>renan.amorim</sys_updated_by>
         <sys_updated_on>2024-03-12 16:49:30</sys_updated_on>
         <table>x_1322195_hospital_triagem</table>
-        <ui_policy display_value="Campo Atendimento é Mandatório e Read Only">ed28e89f97780e108d09bf1e6253af7b</ui_policy>
+        <ui_policy display_value="Políticas de campos - Atendimento | Triagem">ed28e89f97780e108d09bf1e6253af7b</ui_policy>
         <value/>
         <value_action>ignore</value_action>
         <visible>ignore</visible>

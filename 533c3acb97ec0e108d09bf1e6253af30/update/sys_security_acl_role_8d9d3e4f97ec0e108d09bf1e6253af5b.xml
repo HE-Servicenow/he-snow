@@ -13,6 +13,6 @@
         <sys_update_name>sys_security_acl_role_8d9d3e4f97ec0e108d09bf1e6253af5b</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2024-02-28 22:29:08</sys_updated_on>
-        <sys_user_role display_value="x_1322195_hospital.triagem_user" name="x_1322195_hospital.triagem_user">019df60f97ec0e108d09bf1e6253af8e</sys_user_role>
+        <sys_user_role display_value="x_1322195_hospital.triagen_user" name="x_1322195_hospital.triagen_user">019df60f97ec0e108d09bf1e6253af8e</sys_user_role>
     </sys_security_acl_role>
 </record_update>

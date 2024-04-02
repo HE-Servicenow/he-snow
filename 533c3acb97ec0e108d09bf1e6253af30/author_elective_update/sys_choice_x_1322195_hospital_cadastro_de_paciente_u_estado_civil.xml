@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>juan.felipe</sys_created_by>
             <sys_created_on>2024-03-08 19:25:42</sys_created_on>
-            <sys_id>86e9e0c2973886108d09bf1e6253af85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_estado_civil</sys_name>
             <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-03-08 19:25:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>42e9e0c2973886108d09bf1e6253af85</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>juan.felipe</sys_updated_by>
             <sys_updated_on>2024-03-08 19:25:42</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-03-08 19:25:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>4ee9e0c2973886108d09bf1e6253afc4</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>juan.felipe</sys_updated_by>
             <sys_updated_on>2024-03-08 19:25:42</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-03-08 19:25:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8ae9e0c2973886108d09bf1e6253afc5</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>juan.felipe</sys_updated_by>
             <sys_updated_on>2024-03-08 19:25:42</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2024-03-08 19:25:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>c6e9e0c2973886108d09bf1e6253afc6</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>juan.felipe</sys_updated_by>
             <sys_updated_on>2024-03-08 19:25:42</sys_updated_on>

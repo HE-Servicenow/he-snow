@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="a67a5073970dc6108d09bf1e6253af4c" label="Tabela Médicos" max_length="40" name="x_1322195_hospital_tabela_medicos" type="collection">
+        <element attributes="encode_utf8=false" label="Nome" max_length="32" name="nome" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="CRM" max_length="40" name="u_crm" type="string"/>
+        <element label="Especialidade" max_length="40" name="u_especialidade" type="string"/>
+        <element label="Hospital de atuação" max_length="40" name="u_hospital_de_atuacao" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="UF" max_length="40" name="u_uf" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="nome"/>
+        </index>
+    </element>
+</database>

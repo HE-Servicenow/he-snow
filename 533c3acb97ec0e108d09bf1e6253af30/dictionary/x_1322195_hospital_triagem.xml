@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="fa7cf60f97ec0e108d09bf1e6253af29" label="Triagem" max_length="40" name="x_1322195_hospital_triagem" type="collection">
+        <element default="javascript:global.getNextObjNumberPadded();" label="Atendimento" max_length="60" name="atendimento" type="string"/>
+        <element label="Data / Hora do atendimento" max_length="255" name="data_hora_do_atendimento" type="calendar_date_time"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Especialidade" mandatory="true" max_length="16" name="especialidade" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Clínica médica" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Ginecologia" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Ortopedia" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Oftalmologia" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Pediatria" sequence="4" value="5"/>
+            </choice>
+        </element>
+        <element label="Função" mandatory="true" max_length="40" name="funcao" type="string"/>
+        <element label="Nome do Profissional" mandatory="true" max_length="40" name="nome_do_profissional" type="string"/>
+        <element attributes="ignore_filter_on_new=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Número do Conselho" mandatory="true" max_length="255" name="numero_do_conselho" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Tipo de atendimento" mandatory="true" max_length="16" name="tipo_de_atendimento" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="Emergência" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Urgência" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Eletivo" sequence="2" value="3"/>
+            </choice>
+        </element>
+        <element choice="1" label="Alergias" max_length="40" name="u_classificacao_alergias" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Não" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="Sim" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="Conduta inicial" max_length="300" name="u_classificacao_conduta" type="string"/>
+        <element choice="1" label="Doenças preexistentes" max_length="40" name="u_classificacao_doencas" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Não" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="Sim" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element choice="1" label="Drogas" max_length="40" name="u_classificacao_drogas" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Não" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="Sim" sequence="1" value="1"/>
+            </choice>
+        </element>
+        <element choice="1" label="Medicação contínua" max_length="40" name="u_classificacao_medicacao" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Não" sequence="0" value="2"/>
+                <element inactive_on_update="false" label="Sim" sequence="0" value="1"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Classificação de risco" mandatory="true" max_length="40" name="u_classificacao_risco" type="string">
+            <choice>
+                <element hint="Emergência – Risco de perder a vida – Atendimento imediato;" inactive_on_update="false" label="Vermelha" sequence="0" value="vermelha"/>
+                <element hint="Muito urgente – Risco de perda de função de órgãos – Atendimento em até 10 minutos;" inactive_on_update="false" label="Laranja" sequence="1" value="laranja"/>
+                <element hint="Urgente – Condição que pode se agravar sem atendimento – Atendimento em até 60 minutos;" inactive_on_update="false" label="Amarelo" sequence="2" value="amarelo"/>
+                <element hint="Pouco Urgente – Baixo risco de agravo à saúde – Atendimento em até 120 minutos;" inactive_on_update="false" label="Verde" sequence="3" value="verde"/>
+                <element hint="Não urgente – Sem risco. Encaminhamento à Unidade de Saúde de referência – Atendimento em até 240 minutos;" inactive_on_update="false" label="Azul" sequence="4" value="azul"/>
+            </choice>
+        </element>
+        <element label="CPF" max_length="50" name="u_cpf" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Data de nascimento" max_length="40" name="u_data_de_nascimento" type="glide_date"/>
+        <element attributes="edge_encryption_enabled=true" label="Descrição" max_length="300" name="u_descricao" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="DIA" max_length="6" name="u_dia" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Dor" max_length="40" name="u_dor" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 1" sequence="0" value="Choice 1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 2" sequence="1" value="Choice 2"/>
+                <element inactive_on_update="false" label="3" sequence="2" value="3"/>
+                <element inactive="true" inactive_on_update="true" label="Choice 3" sequence="2" value="Choice 3"/>
+                <element inactive_on_update="false" label="4" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="6" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="7" sequence="6" value="7"/>
+                <element inactive_on_update="false" label="8" sequence="7" value="8"/>
+                <element inactive_on_update="false" label="9" sequence="8" value="9"/>
+                <element inactive_on_update="false" label="10" sequence="9" value="10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Escala verbal numérica" max_length="40" name="u_escala" type="string">
+            <choice>
+                <element inactive_on_update="false" label="1" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="2" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="4" sequence="2" value="4"/>
+                <element inactive_on_update="false" label="5" sequence="3" value="5"/>
+                <element inactive_on_update="false" label="6" sequence="4" value="6"/>
+                <element inactive_on_update="false" label="7" sequence="5" value="7"/>
+                <element inactive_on_update="false" label="8" sequence="6" value="8"/>
+                <element inactive_on_update="false" label="9" sequence="7" value="9"/>
+                <element inactive_on_update="false" label="10" sequence="8" value="10"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Estado do Paciente" max_length="40" name="u_estado_paciente" type="string">
+            <choice>
+                <element inactive_on_update="false" label="Consciente" sequence="0" value="1"/>
+                <element inactive_on_update="false" label="Inconsciente" sequence="1" value="2"/>
+                <element inactive_on_update="false" label="Orientado" sequence="2" value="3"/>
+                <element inactive_on_update="false" label="Desorientado" sequence="3" value="4"/>
+                <element inactive_on_update="false" label="Agitado" sequence="4" value="5"/>
+                <element inactive_on_update="false" label="Confuso" sequence="5" value="6"/>
+                <element inactive_on_update="false" label="Letárgico" sequence="6" value="7"/>
+            </choice>
+        </element>
+        <element attributes="edge_encryption_enabled=true" label="FR" max_length="40" name="u_fr" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Frequência cardíaca" max_length="40" name="u_freq_cardiaca" type="integer"/>
+        <element attributes="edge_encryption_enabled=true" label="Idade" max_length="40" name="u_idade" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="PA" max_length="6" name="u_pa" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Paciente" max_length="40" name="u_paciente" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Peso" max_length="40" name="u_peso" type="float"/>
+        <element label="Prontuário" max_length="40" name="u_prontuario" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Temperatura corporal" max_length="40" name="u_temp_corporal" type="float"/>
+    </element>
+</database>

@@ -6,12 +6,11 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>renan.amorim</sys_created_by>
             <sys_created_on>2024-02-29 01:40:36</sys_created_on>
-            <sys_id>f5696f4797e04e108d09bf1e6253af28</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>especialidade</sys_name>
-            <sys_package display_value="Hospital Emergency-profissional-Juan Felipe" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+            <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Hospital Emergency-profissional-Juan Felipe">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+            <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
             <sys_update_name>sys_choice_x_1322195_hospital_triagem_especialidade</sys_update_name>
             <sys_updated_by>renan.amorim</sys_updated_by>
             <sys_updated_on>2024-02-29 01:40:36</sys_updated_on>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-02-29 01:40:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b1696f4797e04e108d09bf1e6253af28</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>renan.amorim</sys_updated_by>
             <sys_updated_on>2024-02-29 01:40:36</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-02-29 01:40:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7d696f4797e04e108d09bf1e6253af29</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>renan.amorim</sys_updated_by>
             <sys_updated_on>2024-02-29 01:40:36</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-02-29 01:40:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>b9696f4797e04e108d09bf1e6253af2a</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>renan.amorim</sys_updated_by>
             <sys_updated_on>2024-02-29 01:40:36</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2024-02-29 01:40:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f5696f4797e04e108d09bf1e6253af2b</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>renan.amorim</sys_updated_by>
             <sys_updated_on>2024-02-29 01:40:36</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2024-02-29 01:40:36</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>35696f4797e04e108d09bf1e6253af2c</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>renan.amorim</sys_updated_by>
             <sys_updated_on>2024-02-29 01:40:36</sys_updated_on>

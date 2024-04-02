@@ -1,24 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="u_classificacao_doencas" table="x_1322195_hospital_triagem" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="u_classificacao_drogas" table="x_1322195_hospital_triagem" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>u_classificacao_doencas</element>
+            <element>u_classificacao_drogas</element>
             <name>x_1322195_hospital_triagem</name>
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>pedro.sa</sys_created_by>
-            <sys_created_on>2024-03-01 19:31:26</sys_created_on>
-            <sys_id>2118e4b3972002508d09bf1e6253af19</sys_id>
+            <sys_created_on>2024-03-01 19:32:14</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>u_classificacao_doencas</sys_name>
-            <sys_package display_value="Hospital Emergency-profissional-Juan Felipe" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
+            <sys_name>u_classificacao_drogas</sys_name>
+            <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
             <sys_policy/>
-            <sys_scope display_value="Hospital Emergency-profissional-Juan Felipe">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
-            <sys_update_name>sys_choice_x_1322195_hospital_triagem_u_classificacao_doencas</sys_update_name>
+            <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
+            <sys_update_name>sys_choice_x_1322195_hospital_triagem_u_classificacao_drogas</sys_update_name>
             <sys_updated_by>pedro.sa</sys_updated_by>
-            <sys_updated_on>2024-03-01 19:31:26</sys_updated_on>
+            <sys_updated_on>2024-03-01 19:32:14</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_classificacao_doencas</element>
+            <element>u_classificacao_drogas</element>
             <hint/>
             <inactive>false</inactive>
             <label>Não</label>
@@ -27,18 +26,17 @@
             <sequence>0</sequence>
             <synonyms/>
             <sys_created_by>pedro.sa</sys_created_by>
-            <sys_created_on>2024-03-01 19:31:31</sys_created_on>
+            <sys_created_on>2024-03-01 19:32:19</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>7918a4f3972002508d09bf1e6253af18</sys_id>
-            <sys_mod_count>3</sys_mod_count>
-            <sys_updated_by>pedro.sa</sys_updated_by>
-            <sys_updated_on>2024-03-01 20:01:21</sys_updated_on>
+            <sys_mod_count>10</sys_mod_count>
+            <sys_updated_by>junior.teixeira</sys_updated_by>
+            <sys_updated_on>2024-03-26 18:27:49</sys_updated_on>
             <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>u_classificacao_doencas</element>
+            <element>u_classificacao_drogas</element>
             <hint/>
             <inactive>false</inactive>
             <label>Sim</label>
@@ -50,10 +48,9 @@
             <sys_created_on>2024-03-01 19:38:12</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>f4a96877972002508d09bf1e6253af96</sys_id>
-            <sys_mod_count>1</sys_mod_count>
-            <sys_updated_by>pedro.sa</sys_updated_by>
-            <sys_updated_on>2024-03-01 19:38:45</sys_updated_on>
+            <sys_mod_count>6</sys_mod_count>
+            <sys_updated_by>junior.teixeira</sys_updated_by>
+            <sys_updated_on>2024-03-26 18:28:33</sys_updated_on>
             <value>1</value>
         </sys_choice>
     </sys_choice>

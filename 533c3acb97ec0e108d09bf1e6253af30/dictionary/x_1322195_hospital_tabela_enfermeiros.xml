@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="343bc17f97cdc6108d09bf1e6253af16" label="Tabela enfermeiros" max_length="40" name="x_1322195_hospital_tabela_enfermeiros" type="collection">
+        <element attributes="encode_utf8=false" label="Nome" max_length="32" name="nome" reference="sys_user" type="reference"/>
+        <element attributes="edge_encryption_enabled=true" default="javascript:global.getNextObjNumberPadded();" label="Number" max_length="40" name="number" type="string"/>
+        <element label="Coren" max_length="40" name="u_coren" type="string"/>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Especialidade" max_length="40" name="u_especialidade" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="UF" max_length="40" name="u_uf" type="choice">
+            <choice/>
+        </element>
+        <element attributes="edge_encryption_enabled=true" choice="1" label="Unidade de atuação" max_length="40" name="u_unidade_de_atuacao" type="choice">
+            <choice/>
+        </element>
+        <index name="index">
+            <element name="nome"/>
+        </index>
+    </element>
+</database>

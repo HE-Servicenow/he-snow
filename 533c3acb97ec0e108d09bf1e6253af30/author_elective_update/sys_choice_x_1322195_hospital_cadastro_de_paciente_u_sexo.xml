@@ -1,80 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?><record_update>
-    <sys_choice action="INSERT_OR_UPDATE" field="acompanhante" table="x_1322195_hospital_cadastro_de_paciente" version="3">
+    <sys_choice action="INSERT_OR_UPDATE" field="u_sexo" table="x_1322195_hospital_cadastro_de_paciente" version="3">
         <sys_choice_set action="INSERT_OR_UPDATE">
-            <element>acompanhante</element>
+            <element>u_sexo</element>
             <name>x_1322195_hospital_cadastro_de_paciente</name>
             <sys_class_name>sys_choice_set</sys_class_name>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 18:23:51</sys_created_on>
-            <sys_id>c69bad329745c2108d09bf1e6253af58</sys_id>
+            <sys_created_by>juan.felipe</sys_created_by>
+            <sys_created_on>2024-03-08 19:15:42</sys_created_on>
             <sys_mod_count>0</sys_mod_count>
-            <sys_name>acompanhante</sys_name>
+            <sys_name>u_sexo</sys_name>
             <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
             <sys_policy/>
             <sys_scope display_value="Hospital Emergency">533c3acb97ec0e108d09bf1e6253af30</sys_scope>
-            <sys_update_name>sys_choice_x_1322195_hospital_cadastro_de_paciente_acompanhante</sys_update_name>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 18:23:51</sys_updated_on>
+            <sys_update_name>sys_choice_x_1322195_hospital_cadastro_de_paciente_u_sexo</sys_update_name>
+            <sys_updated_by>juan.felipe</sys_updated_by>
+            <sys_updated_on>2024-03-08 19:15:42</sys_updated_on>
         </sys_choice_set>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>acompanhante</element>
+            <element>u_sexo</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Parente</label>
+            <label>Masculino</label>
             <language>en</language>
             <name>x_1322195_hospital_cadastro_de_paciente</name>
             <sequence>0</sequence>
             <synonyms/>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 18:23:51</sys_created_on>
+            <sys_created_by>juan.felipe</sys_created_by>
+            <sys_created_on>2024-03-08 19:15:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>429bad329745c2108d09bf1e6253af58</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 18:23:51</sys_updated_on>
-            <value>10</value>
+            <sys_updated_by>juan.felipe</sys_updated_by>
+            <sys_updated_on>2024-03-08 19:15:42</sys_updated_on>
+            <value>1</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>acompanhante</element>
+            <element>u_sexo</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Amigo</label>
+            <label>Feminino</label>
             <language>en</language>
             <name>x_1322195_hospital_cadastro_de_paciente</name>
             <sequence>1</sequence>
             <synonyms/>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 18:23:51</sys_created_on>
+            <sys_created_by>juan.felipe</sys_created_by>
+            <sys_created_on>2024-03-08 19:15:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>429bad329745c2108d09bf1e6253af5a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 18:23:51</sys_updated_on>
-            <value>20</value>
+            <sys_updated_by>juan.felipe</sys_updated_by>
+            <sys_updated_on>2024-03-08 19:15:42</sys_updated_on>
+            <value>2</value>
         </sys_choice>
         <sys_choice action="INSERT_OR_UPDATE">
             <dependent_value/>
-            <element>acompanhante</element>
+            <element>u_sexo</element>
             <hint/>
             <inactive>false</inactive>
-            <label>Cuidador</label>
+            <label>Outros</label>
             <language>en</language>
             <name>x_1322195_hospital_cadastro_de_paciente</name>
             <sequence>2</sequence>
             <synonyms/>
-            <sys_created_by>renan.amorim</sys_created_by>
-            <sys_created_on>2024-03-23 18:23:51</sys_created_on>
+            <sys_created_by>juan.felipe</sys_created_by>
+            <sys_created_on>2024-03-08 19:15:42</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>8e9bad329745c2108d09bf1e6253af5a</sys_id>
             <sys_mod_count>0</sys_mod_count>
-            <sys_updated_by>renan.amorim</sys_updated_by>
-            <sys_updated_on>2024-03-23 18:23:51</sys_updated_on>
-            <value>30</value>
+            <sys_updated_by>juan.felipe</sys_updated_by>
+            <sys_updated_on>2024-03-08 19:15:42</sys_updated_on>
+            <value>3</value>
         </sys_choice>
     </sys_choice>
 </record_update>

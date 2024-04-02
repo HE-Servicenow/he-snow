@@ -66,7 +66,6 @@ gs.info('Age: ' + age.years + ' years, ' + age.months + ' months, ' + age.days +
         <sys_class_name>sys_dictionary</sys_class_name>
         <sys_created_by>juan.felipe</sys_created_by>
         <sys_created_on>2024-03-08 19:31:52</sys_created_on>
-        <sys_id>545ba046973886108d09bf1e6253af06</sys_id>
         <sys_name>Data de nascimento</sys_name>
         <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
         <sys_policy/>

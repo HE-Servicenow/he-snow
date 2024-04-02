@@ -6,7 +6,6 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>matheus.soares</sys_created_by>
             <sys_created_on>2024-03-25 21:45:39</sys_created_on>
-            <sys_id>e9fc28ef974986108d09bf1e6253afda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_name>u_estado_paciente</sys_name>
             <sys_package display_value="Hospital Emergency" source="x_1322195_hospital">533c3acb97ec0e108d09bf1e6253af30</sys_package>
@@ -30,7 +29,6 @@
             <sys_created_on>2024-03-25 21:45:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a5fc28ef974986108d09bf1e6253afda</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>matheus.soares</sys_updated_by>
             <sys_updated_on>2024-03-25 21:45:39</sys_updated_on>
@@ -50,7 +48,6 @@
             <sys_created_on>2024-03-25 21:45:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>69fc28ef974986108d09bf1e6253afdb</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>matheus.soares</sys_updated_by>
             <sys_updated_on>2024-03-25 21:45:39</sys_updated_on>
@@ -70,7 +67,6 @@
             <sys_created_on>2024-03-25 21:45:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a5fc28ef974986108d09bf1e6253afdc</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>matheus.soares</sys_updated_by>
             <sys_updated_on>2024-03-25 21:45:39</sys_updated_on>
@@ -90,7 +86,6 @@
             <sys_created_on>2024-03-25 21:45:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>e1fc28ef974986108d09bf1e6253afdd</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>matheus.soares</sys_updated_by>
             <sys_updated_on>2024-03-25 21:45:39</sys_updated_on>
@@ -110,7 +105,6 @@
             <sys_created_on>2024-03-25 21:45:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>21fc28ef974986108d09bf1e6253afde</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>matheus.soares</sys_updated_by>
             <sys_updated_on>2024-03-25 21:45:39</sys_updated_on>
@@ -130,7 +124,6 @@
             <sys_created_on>2024-03-25 21:45:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>6dfc28ef974986108d09bf1e6253afde</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>matheus.soares</sys_updated_by>
             <sys_updated_on>2024-03-25 21:45:39</sys_updated_on>
@@ -150,7 +143,6 @@
             <sys_created_on>2024-03-25 21:45:39</sys_created_on>
             <sys_domain>global</sys_domain>
             <sys_domain_path>/</sys_domain_path>
-            <sys_id>a9fc28ef974986108d09bf1e6253afdf</sys_id>
             <sys_mod_count>0</sys_mod_count>
             <sys_updated_by>matheus.soares</sys_updated_by>
             <sys_updated_on>2024-03-25 21:45:39</sys_updated_on>

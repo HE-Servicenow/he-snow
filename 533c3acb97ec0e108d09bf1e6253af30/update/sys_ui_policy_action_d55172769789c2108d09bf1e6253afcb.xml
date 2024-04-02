@@ -19,7 +19,7 @@
         <sys_updated_by>renan.amorim</sys_updated_by>
         <sys_updated_on>2024-03-23 23:29:24</sys_updated_on>
         <table>x_1322195_hospital_cadastro_de_paciente</table>
-        <ui_policy display_value="Políticas de campos - Seção Acompanhante | Cadastro de Paciente">63e03a369789c2108d09bf1e6253afe5</ui_policy>
+        <ui_policy display_value="UI Policies para campos mandatórios">63e03a369789c2108d09bf1e6253afe5</ui_policy>
         <value/>
         <value_action>ignore</value_action>
         <visible>ignore</visible>
